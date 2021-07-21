@@ -1,12 +1,11 @@
 ### Hi there 👋
 
+I'm currently learning ML, DL.
 
   
-🌱 Latest blog posts
-
-* [[시계열 분석] 시계열 분석 - 양적예측방법](https://ssung-22.tistory.com/28)
-* [git 레퍼지토리 합치기(history 유지)](https://ssung-22.tistory.com/27)
-* [[통계분석] 가설검정](https://ssung-22.tistory.com/27https://ssung-22.tistory.com/27)
+🌱 Skills
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/R-3766AB?style=flat-square&logo=R&logoColor=white"/></a>&nbsp 
 
   
 🌱 stats
