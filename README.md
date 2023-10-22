@@ -8,8 +8,7 @@ I'm currently learning ML, DL, Algorithm.
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-2650AC?style=flat-square&logo=R&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-3770AA?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MySQL-3770AA?style=flat-square&logo=Tensorflow&logoColor=white"/></a>
-](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<img src="https://img.shields.io/badge/Tensorflow-3770AA?style=flat-square&logo=Tensorflow&logoColor=white"/></a>
   
 🌱 stats
 
